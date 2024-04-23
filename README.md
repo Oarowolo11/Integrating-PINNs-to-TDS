@@ -4,7 +4,7 @@ This library provides a Differential-Algebraic system of Equations (DAEs) solver
 
 The motivation, methodology and applications are discussed in the following paper:
 
-Ignasi Ventura and Jochen Stiasny and Spyros Chatzivasileiadis. "Integrating Physics-Informed Neural Networks into Power System Dynamic Simulations". 2024.
+Ignasi Ventura and Jochen Stiasny and Spyros Chatzivasileiadis. ["Integrating Physics-Informed Neural Networks into Power System Dynamic Simulations"](https://arxiv.org/pdf/2404.13325.pdf). 2024.
 
 ## Installation
 
@@ -93,6 +93,8 @@ The motivation, methodology and applications are discussed in the following pape
     title={Integrating Physics-Informed Neural Networks into Power System Dynamic Simulations}, 
     author={Ignasi Ventura and Jochen Stiasny and Spyros Chatzivasileiadis},
     year={2024},
+    eprint={2404.13325},
+    archivePrefix={arXiv}
 }
 ``` 
 
